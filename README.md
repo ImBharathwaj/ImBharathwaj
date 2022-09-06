@@ -57,9 +57,7 @@ Here are some ideas to get you started:
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
         width="40" height="40" /> </a> </a> <a href="https://git-scm.com/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-        <a href="https://putty.org/" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty"
-        width="40" height="40" /> </a> <a href="https://bash.org/" target="_blank"> <img
+        <a href="https://bash.org/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash"
         width="40" height="40" /> </a> <a href="https://vim.org/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40"
