@@ -82,5 +82,7 @@ Here are some ideas to get you started:
         width="40" height="40" /> </a>
 </p>
 <hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImBharathwaj"/>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ImBharathwaj&show_icons=true&locale=en"
         alt="ImBharathwaj" /></p>
