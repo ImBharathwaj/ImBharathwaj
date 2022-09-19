@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bharathwaj</h1>
+<h1>Hi, I'm Bharathwaj from Chennai</h1>
 <h3>I share knowledge through my code 💙️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ImBharathwaj&label=Profile%20views&color=0e75b6&style=flat" alt="ImBharathwaj" /> </p>
@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [QSpiders](https://qspiders.com) as System Administrator
+- 🔭 I’m currently working on **QSpiders** as System Administrator
 
 - 🌱 I’m currently a student of **Computer Science Engineering**
 
@@ -82,8 +82,7 @@ Here are some ideas to get you started:
         width="40" height="40" /> </a>
 </p>
 
---- 
-
+---
 
 <p align="left">
    <i> 
@@ -95,8 +94,6 @@ Here are some ideas to get you started:
                                                              ― Steve Jobs
   </i>
 </p>       
-
----
 
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ImBharathwaj&count_private=true&show_icons=true&theme=light" width="400"/>
