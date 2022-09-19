@@ -81,8 +81,27 @@ Here are some ideas to get you started:
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb"
         width="40" height="40" /> </a>
 </p>
+
+--- 
+
+
+<p align="left">
+   <i> 
+    
+    
+    “Have the courage to follow your heart and intuition. They 
+       somehow already know what you truly want to become.
+          Everything else is secondary.”
+                                                             ― Steve Jobs
+  </i>
+</p>       
+
+---
+
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImBharathwaj"/>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ImBharathwaj&show_icons=true&locale=en"
-        alt="ImBharathwaj" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ImBharathwaj&count_private=true&show_icons=true&theme=light" width="400"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImBharathwaj" width="400">
+
+ ### 📚 Most Used Languages
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBharathwaj&layout=compact" width="400" />
+
