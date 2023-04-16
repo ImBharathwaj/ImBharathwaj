@@ -12,15 +12,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **QSpiders** as System Administrator
-
 - 🌱 I’m currently a student of **Computer Science Engineering**
 
 - 👯 I’m looking to collaborate on people
 
 - 🤔 I’m looking for ambitious people to work with
 
-- 💬 Ask me about **Python, Data Engineering & Networking**
+- 💬 Ask me about **Python, Hadoop, Data Engineering & Networking**
 
 - 📫 How to reach me: **bharathwajist@gmail.com**
 
@@ -82,14 +80,14 @@ Here are some ideas to get you started:
 ---
 
 <p align="left">
-   <i> 
-    
-    
-    “Have the courage to follow your heart and intuition. They 
-       somehow already know what you truly want to become.
-          Everything else is secondary.”
+   <center>
+               <i> 
+                            “Have the courage to follow your heart and intuition. They 
+                               somehow already know what you truly want to become.
+                                  Everything else is secondary.”
                                                              ― Steve Jobs
-  </i>
+              </i>
+            </center>
 </p>       
 
 <hr>
