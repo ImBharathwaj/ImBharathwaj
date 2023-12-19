@@ -40,7 +40,7 @@
  📧 &emsp; Reach me anytime: imbharathwaj@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/imbharathwaj/imbharathwaj/issues)<br/><br/>
  🐶 &emsp; Love for dogs<br/><br/>
- 🗿 &emsp; Doing what a man supposed to be
+ 🗿 &emsp; Doing what a man supposed to do
 
 </p>
 <br/>
